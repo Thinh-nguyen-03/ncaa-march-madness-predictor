@@ -105,6 +105,17 @@ Output includes:
 - Analysis of potential upsets
 - Round-by-round win probabilities
 
+## Model Analysis
+
+For a comprehensive analysis of model performance, feature importance, and upset patterns, see [MODEL_RESULTS.md](MODEL_RESULTS.md).
+
+This detailed report includes:
+- Performance metrics for each model variant
+- Prediction accuracy by tournament round
+- Feature importance analysis
+- Upset frequency patterns
+- Key insights about tournament dynamics
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
