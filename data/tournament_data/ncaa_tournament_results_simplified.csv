@@ -1,0 +1,852 @@
+﻿year,round,team1,team2,team1_seed,team2_seed,winner
+2011,1,Ohio State,UTSA,1,16,Ohio State
+2011,1,George Mason,Villanova,8,9,George Mason
+2011,1,West Virginia,Clemson,5,12,West Virginia
+2011,1,Kentucky,Princeton,4,13,Kentucky
+2011,1,Xavier,Marquette,6,11,Marquette
+2011,1,Syracuse,Indiana State,3,14,Syracuse
+2011,1,Washington,Georgia,7,10,Washington
+2011,1,North Carolina,LIU,2,15,North Carolina
+2011,1,Pitt,UNC Asheville,1,16,Pitt
+2011,1,Butler,Old Dominion,8,9,Butler
+2011,1,Kansas State,Utah State,5,12,Kansas State
+2011,1,Wisconsin,Belmont,4,13,Wisconsin
+2011,1,St. John's (NY),Gonzaga,6,11,Gonzaga
+2011,1,Brigham Young,Wofford,3,14,Brigham Young
+2011,1,UCLA,Michigan State,7,10,UCLA
+2011,1,Florida,UC Santa Barbara,2,15,Florida
+2011,1,Kansas,Boston University,1,16,Kansas
+2011,1,UNLV,Illinois,8,9,Illinois
+2011,1,Vanderbilt,Richmond,5,12,Richmond
+2011,1,Louisville,Morehead State,4,13,Morehead State
+2011,1,Georgetown,Virginia Commonwealth,6,11,Virginia Commonwealth
+2011,1,Purdue,Saint Peter's,3,14,Purdue
+2011,1,Texas A&M,Florida State,7,10,Florida State
+2011,1,Notre Dame,Akron,2,15,Notre Dame
+2011,1,Duke,Hampton,1,16,Duke
+2011,1,Michigan,Tennessee,8,9,Michigan
+2011,1,Arizona,Memphis,5,12,Arizona
+2011,1,Texas,Oakland,4,13,Texas
+2011,1,Cincinnati,Missouri,6,11,Cincinnati
+2011,1,Connecticut,Bucknell,3,14,Connecticut
+2011,1,Temple,Penn State,7,10,Temple
+2011,1,San Diego State,Northern Colorado,2,15,San Diego State
+2011,2,Ohio State,George Mason,1,8,Ohio State
+2011,2,West Virginia,Kentucky,5,4,Kentucky
+2011,2,Marquette,Syracuse,11,3,Marquette
+2011,2,Washington,North Carolina,7,2,North Carolina
+2011,2,Pitt,Butler,1,8,Butler
+2011,2,Kansas State,Wisconsin,5,4,Wisconsin
+2011,2,Gonzaga,Brigham Young,11,3,Brigham Young
+2011,2,UCLA,Florida,7,2,Florida
+2011,2,Kansas,Illinois,1,9,Kansas
+2011,2,Richmond,Morehead State,12,13,Richmond
+2011,2,Virginia Commonwealth,Purdue,11,3,Virginia Commonwealth
+2011,2,Florida State,Notre Dame,10,2,Florida State
+2011,2,Duke,Michigan,1,8,Duke
+2011,2,Arizona,Texas,5,4,Arizona
+2011,2,Cincinnati,Connecticut,6,3,Connecticut
+2011,2,Temple,San Diego State,7,2,San Diego State
+2011,3,Ohio State,Kentucky,1,4,Kentucky
+2011,3,Marquette,North Carolina,11,2,North Carolina
+2011,3,Butler,Wisconsin,8,4,Butler
+2011,3,Brigham Young,Florida,3,2,Florida
+2011,3,Kansas,Richmond,1,12,Kansas
+2011,3,Virginia Commonwealth,Florida State,11,10,Virginia Commonwealth
+2011,3,Duke,Arizona,1,5,Arizona
+2011,3,Connecticut,San Diego State,3,2,Connecticut
+2011,4,Kentucky,North Carolina,4,2,Kentucky
+2011,4,Butler,Florida,8,2,Butler
+2011,4,Kansas,Virginia Commonwealth,1,11,Virginia Commonwealth
+2011,4,Arizona,Connecticut,5,3,Connecticut
+2011,5,Connecticut,Kentucky,3,4,Connecticut
+2011,5,Virginia Commonwealth,Butler,11,8,Butler
+2011,6,Connecticut,Butler,3,8,Connecticut
+2012,1,Syracuse,UNC Asheville,1,16,Syracuse
+2012,1,Kansas State,Southern Miss,8,9,Kansas State
+2012,1,Vanderbilt,Harvard,5,12,Vanderbilt
+2012,1,Wisconsin,Montana,4,13,Wisconsin
+2012,1,Cincinnati,Texas,6,11,Cincinnati
+2012,1,Florida State,St. Bonaventure,3,14,Florida State
+2012,1,Gonzaga,West Virginia,7,10,Gonzaga
+2012,1,Ohio State,Loyola (MD),2,15,Ohio State
+2012,1,North Carolina,Vermont,1,16,North Carolina
+2012,1,Creighton,Alabama,8,9,Creighton
+2012,1,Temple,South Florida,5,12,South Florida
+2012,1,Michigan,Ohio,4,13,Ohio
+2012,1,San Diego State,North Carolina State,6,11,North Carolina State
+2012,1,Georgetown,Belmont,3,14,Georgetown
+2012,1,Saint Mary's,Purdue,7,10,Purdue
+2012,1,Kansas,Detroit Mercy,2,15,Kansas
+2012,1,Kentucky,Western Kentucky,1,16,Kentucky
+2012,1,Iowa State,Connecticut,8,9,Iowa State
+2012,1,Wichita State,Virginia Commonwealth,5,12,Virginia Commonwealth
+2012,1,Indiana,New Mexico State,4,13,Indiana
+2012,1,UNLV,Colorado,6,11,Colorado
+2012,1,Baylor,South Dakota State,3,14,Baylor
+2012,1,Notre Dame,Xavier,7,10,Xavier
+2012,1,Duke,Lehigh,2,15,Lehigh
+2012,1,Michigan State,LIU,1,16,Michigan State
+2012,1,Memphis,Saint Louis,8,9,Saint Louis
+2012,1,New Mexico,Long Beach State,5,12,New Mexico
+2012,1,Louisville,Davidson,4,13,Louisville
+2012,1,Murray State,Colorado State,6,11,Murray State
+2012,1,Marquette,Brigham Young,3,14,Marquette
+2012,1,Florida,Virginia,7,10,Florida
+2012,1,Missouri,Norfolk State,2,15,Norfolk State
+2012,2,Syracuse,Kansas State,1,8,Syracuse
+2012,2,Vanderbilt,Wisconsin,5,4,Wisconsin
+2012,2,Cincinnati,Florida State,6,3,Cincinnati
+2012,2,Gonzaga,Ohio State,7,2,Ohio State
+2012,2,North Carolina,Creighton,1,8,North Carolina
+2012,2,South Florida,Ohio,12,13,Ohio
+2012,2,North Carolina State,Georgetown,11,3,North Carolina State
+2012,2,Purdue,Kansas,10,2,Kansas
+2012,2,Kentucky,Iowa State,1,8,Kentucky
+2012,2,Virginia Commonwealth,Indiana,12,4,Indiana
+2012,2,Colorado,Baylor,11,3,Baylor
+2012,2,Xavier,Lehigh,10,15,Xavier
+2012,2,Michigan State,Saint Louis,1,9,Michigan State
+2012,2,New Mexico,Louisville,5,4,Louisville
+2012,2,Murray State,Marquette,6,3,Marquette
+2012,2,Florida,Norfolk State,7,15,Florida
+2012,3,Syracuse,Wisconsin,1,4,Syracuse
+2012,3,Cincinnati,Ohio State,6,2,Ohio State
+2012,3,North Carolina,Ohio,1,13,North Carolina
+2012,3,North Carolina State,Kansas,11,2,Kansas
+2012,3,Kentucky,Indiana,1,4,Kentucky
+2012,3,Baylor,Xavier,3,10,Baylor
+2012,3,Michigan State,Louisville,1,4,Louisville
+2012,3,Marquette,Florida,3,7,Florida
+2012,4,Syracuse,Ohio State,1,2,Ohio State
+2012,4,North Carolina,Kansas,1,2,Kansas
+2012,4,Kentucky,Baylor,1,3,Kentucky
+2012,4,Louisville,Florida,4,7,Louisville
+2012,5,Kentucky,Louisville,1,4,Kentucky
+2012,5,Ohio State,Kansas,2,2,Kansas
+2012,6,Kentucky,Kansas,1,2,Kentucky
+2013,1,Indiana,James Madison,1,16,Indiana
+2013,1,North Carolina State,Temple,8,9,Temple
+2013,1,UNLV,California,5,12,California
+2013,1,Syracuse,Montana,4,13,Syracuse
+2013,1,Butler,Bucknell,6,11,Butler
+2013,1,Marquette,Davidson,3,14,Marquette
+2013,1,Illinois,Colorado,7,10,Illinois
+2013,1,Miami (FL),Pacific,2,15,Miami (FL)
+2013,1,Louisville,North Carolina A&T,1,16,Louisville
+2013,1,Colorado State,Missouri,8,9,Colorado State
+2013,1,Oklahoma State,Oregon,5,12,Oregon
+2013,1,Saint Louis,New Mexico State,4,13,Saint Louis
+2013,1,Memphis,Saint Mary's,6,11,Memphis
+2013,1,Michigan State,Valparaiso,3,14,Michigan State
+2013,1,Creighton,Cincinnati,7,10,Creighton
+2013,1,Duke,Albany (NY),2,15,Duke
+2013,1,Kansas,Western Kentucky,1,16,Kansas
+2013,1,North Carolina,Villanova,8,9,North Carolina
+2013,1,Virginia Commonwealth,Akron,5,12,Virginia Commonwealth
+2013,1,Michigan,South Dakota State,4,13,Michigan
+2013,1,UCLA,Minnesota,6,11,Minnesota
+2013,1,Florida,Northwestern State,3,14,Florida
+2013,1,San Diego State,Oklahoma,7,10,San Diego State
+2013,1,Georgetown,Florida Gulf Coast,2,15,Florida Gulf Coast
+2013,1,Gonzaga,Southern,1,16,Gonzaga
+2013,1,Pitt,Wichita State,8,9,Wichita State
+2013,1,Wisconsin,Mississippi,5,12,Mississippi
+2013,1,Kansas State,La Salle,4,13,La Salle
+2013,1,Arizona,Belmont,6,11,Arizona
+2013,1,New Mexico,Harvard,3,14,Harvard
+2013,1,Notre Dame,Iowa State,7,10,Iowa State
+2013,1,Ohio State,Iona,2,15,Ohio State
+2013,2,Indiana,Temple,1,9,Indiana
+2013,2,California,Syracuse,12,4,Syracuse
+2013,2,Butler,Marquette,6,3,Marquette
+2013,2,Illinois,Miami (FL),7,2,Miami (FL)
+2013,2,Louisville,Colorado State,1,8,Louisville
+2013,2,Oregon,Saint Louis,12,4,Oregon
+2013,2,Memphis,Michigan State,6,3,Michigan State
+2013,2,Creighton,Duke,7,2,Duke
+2013,2,Kansas,North Carolina,1,8,Kansas
+2013,2,Virginia Commonwealth,Michigan,5,4,Michigan
+2013,2,Minnesota,Florida,11,3,Florida
+2013,2,San Diego State,Florida Gulf Coast,7,15,Florida Gulf Coast
+2013,2,Gonzaga,Wichita State,1,9,Wichita State
+2013,2,Mississippi,La Salle,12,13,La Salle
+2013,2,Arizona,Harvard,6,14,Arizona
+2013,2,Iowa State,Ohio State,10,2,Ohio State
+2013,3,Indiana,Syracuse,1,4,Syracuse
+2013,3,Marquette,Miami (FL),3,2,Marquette
+2013,3,Louisville,Oregon,1,12,Louisville
+2013,3,Michigan State,Duke,3,2,Duke
+2013,3,Kansas,Michigan,1,4,Michigan
+2013,3,Florida,Florida Gulf Coast,3,15,Florida
+2013,3,Wichita State,La Salle,9,13,Wichita State
+2013,3,Arizona,Ohio State,6,2,Ohio State
+2013,4,Syracuse,Marquette,4,3,Syracuse
+2013,4,Louisville,Duke,1,2,Louisville
+2013,4,Michigan,Florida,4,3,Michigan
+2013,4,Wichita State,Ohio State,9,2,Wichita State
+2013,5,Louisville,Wichita State,1,9,Louisville
+2013,5,Syracuse,Michigan,4,4,Michigan
+2013,6,Louisville,Michigan,1,4,Louisville
+2014,1,Virginia,Coastal Carolina,1,16,Virginia
+2014,1,Memphis,George Washington,8,9,Memphis
+2014,1,Cincinnati,Harvard,5,12,Harvard
+2014,1,Michigan State,Delaware,4,13,Michigan State
+2014,1,North Carolina,Providence,6,11,North Carolina
+2014,1,Iowa State,North Carolina Central,3,14,Iowa State
+2014,1,Connecticut,Saint Joseph's,7,10,Connecticut
+2014,1,Villanova,Milwaukee,2,15,Villanova
+2014,1,Wichita State,Cal Poly,1,16,Wichita State
+2014,1,Kentucky,Kansas State,8,9,Kentucky
+2014,1,Saint Louis,North Carolina State,5,12,Saint Louis
+2014,1,Louisville,Manhattan,4,13,Louisville
+2014,1,UMass,Tennessee,6,11,Tennessee
+2014,1,Duke,Mercer,3,14,Mercer
+2014,1,Texas,Arizona State,7,10,Texas
+2014,1,Michigan,Wofford,2,15,Michigan
+2014,1,Florida,Albany (NY),1,16,Florida
+2014,1,Colorado,Pitt,8,9,Pitt
+2014,1,Virginia Commonwealth,Stephen F. Austin,5,12,Stephen F. Austin
+2014,1,UCLA,Tulsa,4,13,UCLA
+2014,1,Ohio State,Dayton,6,11,Dayton
+2014,1,Syracuse,Western Michigan,3,14,Syracuse
+2014,1,New Mexico,Stanford,7,10,Stanford
+2014,1,Kansas,Eastern Kentucky,2,15,Kansas
+2014,1,Arizona,Weber State,1,16,Arizona
+2014,1,Gonzaga,Oklahoma State,8,9,Gonzaga
+2014,1,Oklahoma,North Dakota State,5,12,North Dakota State
+2014,1,San Diego State,New Mexico State,4,13,San Diego State
+2014,1,Baylor,Nebraska,6,11,Baylor
+2014,1,Creighton,Louisiana,3,14,Creighton
+2014,1,Oregon,Brigham Young,7,10,Oregon
+2014,1,Wisconsin,American,2,15,Wisconsin
+2014,2,Virginia,Memphis,1,8,Virginia
+2014,2,Harvard,Michigan State,12,4,Michigan State
+2014,2,North Carolina,Iowa State,6,3,Iowa State
+2014,2,Connecticut,Villanova,7,2,Connecticut
+2014,2,Wichita State,Kentucky,1,8,Kentucky
+2014,2,Saint Louis,Louisville,5,4,Louisville
+2014,2,Tennessee,Mercer,11,14,Tennessee
+2014,2,Texas,Michigan,7,2,Michigan
+2014,2,Florida,Pitt,1,9,Florida
+2014,2,Stephen F. Austin,UCLA,12,4,UCLA
+2014,2,Dayton,Syracuse,11,3,Dayton
+2014,2,Stanford,Kansas,10,2,Stanford
+2014,2,Arizona,Gonzaga,1,8,Arizona
+2014,2,North Dakota State,San Diego State,12,4,San Diego State
+2014,2,Baylor,Creighton,6,3,Baylor
+2014,2,Oregon,Wisconsin,7,2,Wisconsin
+2014,3,Virginia,Michigan State,1,4,Michigan State
+2014,3,Iowa State,Connecticut,3,7,Connecticut
+2014,3,Kentucky,Louisville,8,4,Kentucky
+2014,3,Tennessee,Michigan,11,2,Michigan
+2014,3,Florida,UCLA,1,4,Florida
+2014,3,Dayton,Stanford,11,10,Dayton
+2014,3,Arizona,San Diego State,1,4,Arizona
+2014,3,Baylor,Wisconsin,6,2,Wisconsin
+2014,4,Michigan State,Connecticut,4,7,Connecticut
+2014,4,Kentucky,Michigan,8,2,Kentucky
+2014,4,Florida,Dayton,1,11,Florida
+2014,4,Arizona,Wisconsin,1,2,Wisconsin
+2014,5,Connecticut,Florida,7,1,Connecticut
+2014,5,Wisconsin,Kentucky,2,8,Kentucky
+2014,6,Connecticut,Kentucky,7,8,Connecticut
+2015,1,Villanova,Lafayette,1,16,Villanova
+2015,1,North Carolina State,Louisiana State,8,9,North Carolina State
+2015,1,Northern Iowa,Wyoming,5,12,Northern Iowa
+2015,1,Louisville,UC Irvine,4,13,Louisville
+2015,1,Providence,Dayton,6,11,Dayton
+2015,1,Oklahoma,Albany (NY),3,14,Oklahoma
+2015,1,Michigan State,Georgia,7,10,Michigan State
+2015,1,Virginia,Belmont,2,15,Virginia
+2015,1,Kentucky,Hampton,1,16,Kentucky
+2015,1,Cincinnati,Purdue,8,9,Cincinnati
+2015,1,West Virginia,Buffalo,5,12,West Virginia
+2015,1,Maryland,Valparaiso,4,13,Maryland
+2015,1,Butler,Texas,6,11,Butler
+2015,1,Notre Dame,Northeastern,3,14,Notre Dame
+2015,1,Wichita State,Indiana,7,10,Wichita State
+2015,1,Kansas,New Mexico State,2,15,Kansas
+2015,1,Duke,Robert Morris,1,16,Duke
+2015,1,San Diego State,St. John's (NY),8,9,San Diego State
+2015,1,Utah,Stephen F. Austin,5,12,Utah
+2015,1,Georgetown,Eastern Washington,4,13,Georgetown
+2015,1,SMU,UCLA,6,11,UCLA
+2015,1,Iowa State,UAB,3,14,UAB
+2015,1,Iowa,Davidson,7,10,Iowa
+2015,1,Gonzaga,North Dakota State,2,15,Gonzaga
+2015,1,Wisconsin,Coastal Carolina,1,16,Wisconsin
+2015,1,Oregon,Oklahoma State,8,9,Oregon
+2015,1,Arkansas,Wofford,5,12,Arkansas
+2015,1,North Carolina,Harvard,4,13,North Carolina
+2015,1,Xavier,Mississippi,6,11,Xavier
+2015,1,Baylor,Georgia State,3,14,Georgia State
+2015,1,Virginia Commonwealth,Ohio State,7,10,Ohio State
+2015,1,Arizona,Texas Southern,2,15,Arizona
+2015,2,Villanova,North Carolina State,1,8,North Carolina State
+2015,2,Northern Iowa,Louisville,5,4,Louisville
+2015,2,Dayton,Oklahoma,11,3,Oklahoma
+2015,2,Michigan State,Virginia,7,2,Michigan State
+2015,2,Kentucky,Cincinnati,1,8,Kentucky
+2015,2,West Virginia,Maryland,5,4,West Virginia
+2015,2,Butler,Notre Dame,6,3,Notre Dame
+2015,2,Wichita State,Kansas,7,2,Wichita State
+2015,2,Duke,San Diego State,1,8,Duke
+2015,2,Utah,Georgetown,5,4,Utah
+2015,2,UCLA,UAB,11,14,UCLA
+2015,2,Iowa,Gonzaga,7,2,Gonzaga
+2015,2,Wisconsin,Oregon,1,8,Wisconsin
+2015,2,Arkansas,North Carolina,5,4,North Carolina
+2015,2,Xavier,Georgia State,6,14,Xavier
+2015,2,Ohio State,Arizona,10,2,Arizona
+2015,3,North Carolina State,Louisville,8,4,Louisville
+2015,3,Oklahoma,Michigan State,3,7,Michigan State
+2015,3,Kentucky,West Virginia,1,5,Kentucky
+2015,3,Notre Dame,Wichita State,3,7,Notre Dame
+2015,3,Duke,Utah,1,5,Duke
+2015,3,UCLA,Gonzaga,11,2,Gonzaga
+2015,3,Wisconsin,North Carolina,1,4,Wisconsin
+2015,3,Xavier,Arizona,6,2,Arizona
+2015,4,Louisville,Michigan State,4,7,Michigan State
+2015,4,Kentucky,Notre Dame,1,3,Kentucky
+2015,4,Duke,Gonzaga,1,2,Duke
+2015,4,Wisconsin,Arizona,1,2,Wisconsin
+2015,5,Duke,Michigan State,1,7,Duke
+2015,5,Kentucky,Wisconsin,1,1,Wisconsin
+2015,6,Duke,Wisconsin,1,1,Duke
+2016,1,North Carolina,Florida Gulf Coast,1,16,North Carolina
+2016,1,Southern California,Providence,8,9,Providence
+2016,1,Indiana,Chattanooga,5,12,Indiana
+2016,1,Kentucky,Stony Brook,4,13,Kentucky
+2016,1,Notre Dame,Michigan,6,11,Notre Dame
+2016,1,West Virginia,Stephen F. Austin,3,14,Stephen F. Austin
+2016,1,Wisconsin,Pitt,7,10,Wisconsin
+2016,1,Xavier,Weber State,2,15,Xavier
+2016,1,Virginia,Hampton,1,16,Virginia
+2016,1,Texas Tech,Butler,8,9,Butler
+2016,1,Purdue,Little Rock,5,12,Little Rock
+2016,1,Iowa State,Iona,4,13,Iowa State
+2016,1,Seton Hall,Gonzaga,6,11,Gonzaga
+2016,1,Utah,Fresno State,3,14,Utah
+2016,1,Dayton,Syracuse,7,10,Syracuse
+2016,1,Michigan State,Middle Tennessee,2,15,Middle Tennessee
+2016,1,Kansas,Austin Peay,1,16,Kansas
+2016,1,Colorado,Connecticut,8,9,Connecticut
+2016,1,Maryland,South Dakota State,5,12,Maryland
+2016,1,California,Hawaii,4,13,Hawaii
+2016,1,Arizona,Wichita State,6,11,Wichita State
+2016,1,Miami (FL),Buffalo,3,14,Miami (FL)
+2016,1,Iowa,Temple,7,10,Iowa
+2016,1,Villanova,UNC Asheville,2,15,Villanova
+2016,1,Oregon,Holy Cross,1,16,Oregon
+2016,1,Saint Joseph's,Cincinnati,8,9,Saint Joseph's
+2016,1,Baylor,Yale,5,12,Yale
+2016,1,Duke,UNC Wilmington,4,13,Duke
+2016,1,Texas,Northern Iowa,6,11,Northern Iowa
+2016,1,Texas A&M,Green Bay,3,14,Texas A&M
+2016,1,Oregon State,Virginia Commonwealth,7,10,Virginia Commonwealth
+2016,1,Oklahoma,Cal State Bakersfield,2,15,Oklahoma
+2016,2,North Carolina,Providence,1,9,North Carolina
+2016,2,Indiana,Kentucky,5,4,Indiana
+2016,2,Notre Dame,Stephen F. Austin,6,14,Notre Dame
+2016,2,Wisconsin,Xavier,7,2,Wisconsin
+2016,2,Virginia,Butler,1,9,Virginia
+2016,2,Little Rock,Iowa State,12,4,Iowa State
+2016,2,Gonzaga,Utah,11,3,Gonzaga
+2016,2,Syracuse,Middle Tennessee,10,15,Syracuse
+2016,2,Kansas,Connecticut,1,9,Kansas
+2016,2,Maryland,Hawaii,5,13,Maryland
+2016,2,Wichita State,Miami (FL),11,3,Miami (FL)
+2016,2,Iowa,Villanova,7,2,Villanova
+2016,2,Oregon,Saint Joseph's,1,8,Oregon
+2016,2,Yale,Duke,12,4,Duke
+2016,2,Northern Iowa,Texas A&M,11,3,Texas A&M
+2016,2,Virginia Commonwealth,Oklahoma,10,2,Oklahoma
+2016,3,North Carolina,Indiana,1,5,North Carolina
+2016,3,Notre Dame,Wisconsin,6,7,Notre Dame
+2016,3,Virginia,Iowa State,1,4,Virginia
+2016,3,Gonzaga,Syracuse,11,10,Syracuse
+2016,3,Kansas,Maryland,1,5,Kansas
+2016,3,Miami (FL),Villanova,3,2,Villanova
+2016,3,Oregon,Duke,1,4,Oregon
+2016,3,Texas A&M,Oklahoma,3,2,Oklahoma
+2016,4,North Carolina,Notre Dame,1,6,North Carolina
+2016,4,Virginia,Syracuse,1,10,Syracuse
+2016,4,Kansas,Villanova,1,2,Villanova
+2016,4,Oregon,Oklahoma,1,2,Oklahoma
+2016,5,Villanova,Oklahoma,2,2,Villanova
+2016,5,Syracuse,North Carolina,10,1,North Carolina
+2016,6,Villanova,North Carolina,2,1,Villanova
+2017,1,Villanova,Mount St. Mary's,1,16,Villanova
+2017,1,Wisconsin,Virginia Tech,8,9,Wisconsin
+2017,1,Virginia,UNC Wilmington,5,12,Virginia
+2017,1,Florida,ETSU,4,13,Florida
+2017,1,SMU,Southern California,6,11,Southern California
+2017,1,Baylor,New Mexico State,3,14,Baylor
+2017,1,South Carolina,Marquette,7,10,South Carolina
+2017,1,Duke,Troy,2,15,Duke
+2017,1,Kansas,UC-Davis,1,16,Kansas
+2017,1,Miami (FL),Michigan State,8,9,Michigan State
+2017,1,Iowa State,Nevada,5,12,Iowa State
+2017,1,Purdue,Vermont,4,13,Purdue
+2017,1,Creighton,Rhode Island,6,11,Rhode Island
+2017,1,Oregon,Iona,3,14,Oregon
+2017,1,Michigan,Oklahoma State,7,10,Michigan
+2017,1,Louisville,Jacksonville State,2,15,Louisville
+2017,1,North Carolina,Texas Southern,1,16,North Carolina
+2017,1,Arkansas,Seton Hall,8,9,Arkansas
+2017,1,Minnesota,Middle Tennessee,5,12,Middle Tennessee
+2017,1,Butler,Winthrop,4,13,Butler
+2017,1,Cincinnati,Kansas State,6,11,Cincinnati
+2017,1,UCLA,Kent State,3,14,UCLA
+2017,1,Dayton,Wichita State,7,10,Wichita State
+2017,1,Kentucky,Northern Kentucky,2,15,Kentucky
+2017,1,Gonzaga,South Dakota State,1,16,Gonzaga
+2017,1,Northwestern,Vanderbilt,8,9,Northwestern
+2017,1,Notre Dame,Princeton,5,12,Notre Dame
+2017,1,West Virginia,Bucknell,4,13,West Virginia
+2017,1,Maryland,Xavier,6,11,Xavier
+2017,1,Florida State,Florida Gulf Coast,3,14,Florida State
+2017,1,Saint Mary's,Virginia Commonwealth,7,10,Saint Mary's
+2017,1,Arizona,North Dakota,2,15,Arizona
+2017,2,Villanova,Wisconsin,1,8,Wisconsin
+2017,2,Virginia,Florida,5,4,Florida
+2017,2,Southern California,Baylor,11,3,Baylor
+2017,2,South Carolina,Duke,7,2,South Carolina
+2017,2,Kansas,Michigan State,1,9,Kansas
+2017,2,Iowa State,Purdue,5,4,Purdue
+2017,2,Rhode Island,Oregon,11,3,Oregon
+2017,2,Michigan,Louisville,7,2,Michigan
+2017,2,North Carolina,Arkansas,1,8,North Carolina
+2017,2,Middle Tennessee,Butler,12,4,Butler
+2017,2,Cincinnati,UCLA,6,3,UCLA
+2017,2,Wichita State,Kentucky,10,2,Kentucky
+2017,2,Gonzaga,Northwestern,1,8,Gonzaga
+2017,2,Notre Dame,West Virginia,5,4,West Virginia
+2017,2,Xavier,Florida State,11,3,Xavier
+2017,2,Saint Mary's,Arizona,7,2,Arizona
+2017,3,Wisconsin,Florida,8,4,Florida
+2017,3,Baylor,South Carolina,3,7,South Carolina
+2017,3,Kansas,Purdue,1,4,Kansas
+2017,3,Oregon,Michigan,3,7,Oregon
+2017,3,North Carolina,Butler,1,4,North Carolina
+2017,3,UCLA,Kentucky,3,2,Kentucky
+2017,3,Gonzaga,West Virginia,1,4,Gonzaga
+2017,3,Xavier,Arizona,11,2,Xavier
+2017,4,Florida,South Carolina,4,7,South Carolina
+2017,4,Kansas,Oregon,1,3,Oregon
+2017,4,North Carolina,Kentucky,1,2,North Carolina
+2017,4,Gonzaga,Xavier,1,11,Gonzaga
+2017,5,Oregon,North Carolina,3,1,North Carolina
+2017,5,South Carolina,Gonzaga,7,1,Gonzaga
+2017,6,North Carolina,Gonzaga,1,1,North Carolina
+2018,1,Villanova,Radford,1,16,Villanova
+2018,1,Virginia Tech,Alabama,8,9,Alabama
+2018,1,West Virginia,Murray State,5,12,West Virginia
+2018,1,Wichita State,Marshall,4,13,Marshall
+2018,1,Florida,St. Bonaventure,6,11,Florida
+2018,1,Texas Tech,Stephen F. Austin,3,14,Texas Tech
+2018,1,Arkansas,Butler,7,10,Butler
+2018,1,Purdue,Cal State Fullerton,2,15,Purdue
+2018,1,Kansas,Penn,1,16,Kansas
+2018,1,Seton Hall,North Carolina State,8,9,Seton Hall
+2018,1,Clemson,New Mexico State,5,12,Clemson
+2018,1,Auburn,College of Charleston,4,13,Auburn
+2018,1,Texas Christian,Syracuse,6,11,Syracuse
+2018,1,Michigan State,Bucknell,3,14,Michigan State
+2018,1,Rhode Island,Oklahoma,7,10,Rhode Island
+2018,1,Duke,Iona,2,15,Duke
+2018,1,Virginia,UMBC,1,16,UMBC
+2018,1,Creighton,Kansas State,8,9,Kansas State
+2018,1,Kentucky,Davidson,5,12,Kentucky
+2018,1,Arizona,Buffalo,4,13,Buffalo
+2018,1,Miami (FL),Loyola (IL),6,11,Loyola (IL)
+2018,1,Tennessee,Wright State,3,14,Tennessee
+2018,1,Nevada,Texas,7,10,Nevada
+2018,1,Cincinnati,Georgia State,2,15,Cincinnati
+2018,1,Xavier,Texas Southern,1,16,Xavier
+2018,1,Missouri,Florida State,8,9,Florida State
+2018,1,Ohio State,South Dakota State,5,12,Ohio State
+2018,1,Gonzaga,UNC Greensboro,4,13,Gonzaga
+2018,1,Houston,San Diego State,6,11,Houston
+2018,1,Michigan,Montana,3,14,Michigan
+2018,1,Texas A&M,Providence,7,10,Texas A&M
+2018,1,North Carolina,Lipscomb,2,15,North Carolina
+2018,2,Villanova,Alabama,1,9,Villanova
+2018,2,West Virginia,Marshall,5,13,West Virginia
+2018,2,Florida,Texas Tech,6,3,Texas Tech
+2018,2,Butler,Purdue,10,2,Purdue
+2018,2,Kansas,Seton Hall,1,8,Kansas
+2018,2,Clemson,Auburn,5,4,Clemson
+2018,2,Syracuse,Michigan State,11,3,Syracuse
+2018,2,Rhode Island,Duke,7,2,Duke
+2018,2,UMBC,Kansas State,16,9,Kansas State
+2018,2,Kentucky,Buffalo,5,13,Kentucky
+2018,2,Loyola (IL),Tennessee,11,3,Loyola (IL)
+2018,2,Nevada,Cincinnati,7,2,Nevada
+2018,2,Xavier,Florida State,1,9,Florida State
+2018,2,Ohio State,Gonzaga,5,4,Gonzaga
+2018,2,Houston,Michigan,6,3,Michigan
+2018,2,Texas A&M,North Carolina,7,2,Texas A&M
+2018,3,Villanova,West Virginia,1,5,Villanova
+2018,3,Texas Tech,Purdue,3,2,Texas Tech
+2018,3,Kansas,Clemson,1,5,Kansas
+2018,3,Syracuse,Duke,11,2,Duke
+2018,3,Kansas State,Kentucky,9,5,Kansas State
+2018,3,Loyola (IL),Nevada,11,7,Loyola (IL)
+2018,3,Florida State,Gonzaga,9,4,Florida State
+2018,3,Michigan,Texas A&M,3,7,Michigan
+2018,4,Villanova,Texas Tech,1,3,Villanova
+2018,4,Kansas,Duke,1,2,Kansas
+2018,4,Kansas State,Loyola (IL),9,11,Loyola (IL)
+2018,4,Florida State,Michigan,9,3,Michigan
+2018,5,Villanova,Kansas,1,1,Villanova
+2018,5,Loyola (IL),Michigan,11,3,Michigan
+2018,6,Villanova,Michigan,1,3,Villanova
+2019,1,Duke,North Dakota State,1,16,Duke
+2019,1,Virginia Commonwealth,Central Florida,8,9,Central Florida
+2019,1,Mississippi State,Liberty,5,12,Liberty
+2019,1,Virginia Tech,Saint Louis,4,13,Virginia Tech
+2019,1,Maryland,Belmont,6,11,Maryland
+2019,1,Louisiana State,Yale,3,14,Louisiana State
+2019,1,Louisville,Minnesota,7,10,Minnesota
+2019,1,Michigan State,Bradley,2,15,Michigan State
+2019,1,North Carolina,Iona,1,16,North Carolina
+2019,1,Utah State,Washington,8,9,Washington
+2019,1,Auburn,New Mexico State,5,12,Auburn
+2019,1,Kansas,Northeastern,4,13,Kansas
+2019,1,Iowa State,Ohio State,6,11,Ohio State
+2019,1,Houston,Georgia State,3,14,Houston
+2019,1,Wofford,Seton Hall,7,10,Wofford
+2019,1,Kentucky,Abilene Christian,2,15,Kentucky
+2019,1,Virginia,Gardner-Webb,1,16,Virginia
+2019,1,Mississippi,Oklahoma,8,9,Oklahoma
+2019,1,Wisconsin,Oregon,5,12,Oregon
+2019,1,Kansas State,UC Irvine,4,13,UC Irvine
+2019,1,Villanova,Saint Mary's,6,11,Villanova
+2019,1,Purdue,Old Dominion,3,14,Purdue
+2019,1,Cincinnati,Iowa,7,10,Iowa
+2019,1,Tennessee,Colgate,2,15,Tennessee
+2019,1,Gonzaga,Fairleigh Dickinson,1,16,Gonzaga
+2019,1,Syracuse,Baylor,8,9,Baylor
+2019,1,Marquette,Murray State,5,12,Murray State
+2019,1,Florida State,Vermont,4,13,Florida State
+2019,1,Buffalo,Arizona State,6,11,Buffalo
+2019,1,Texas Tech,Northern Kentucky,3,14,Texas Tech
+2019,1,Nevada,Florida,7,10,Florida
+2019,1,Michigan,Montana,2,15,Michigan
+2019,2,Duke,Central Florida,1,9,Duke
+2019,2,Liberty,Virginia Tech,12,4,Virginia Tech
+2019,2,Maryland,Louisiana State,6,3,Louisiana State
+2019,2,Minnesota,Michigan State,10,2,Michigan State
+2019,2,North Carolina,Washington,1,9,North Carolina
+2019,2,Auburn,Kansas,5,4,Auburn
+2019,2,Ohio State,Houston,11,3,Houston
+2019,2,Wofford,Kentucky,7,2,Kentucky
+2019,2,Virginia,Oklahoma,1,9,Virginia
+2019,2,Oregon,UC Irvine,12,13,Oregon
+2019,2,Villanova,Purdue,6,3,Purdue
+2019,2,Iowa,Tennessee,10,2,Tennessee
+2019,2,Gonzaga,Baylor,1,9,Gonzaga
+2019,2,Murray State,Florida State,12,4,Florida State
+2019,2,Buffalo,Texas Tech,6,3,Texas Tech
+2019,2,Florida,Michigan,10,2,Michigan
+2019,3,Duke,Virginia Tech,1,4,Duke
+2019,3,Louisiana State,Michigan State,3,2,Michigan State
+2019,3,North Carolina,Auburn,1,5,Auburn
+2019,3,Houston,Kentucky,3,2,Kentucky
+2019,3,Virginia,Oregon,1,12,Virginia
+2019,3,Purdue,Tennessee,3,2,Purdue
+2019,3,Gonzaga,Florida State,1,4,Gonzaga
+2019,3,Texas Tech,Michigan,3,2,Texas Tech
+2019,4,Duke,Michigan State,1,2,Michigan State
+2019,4,Auburn,Kentucky,5,2,Auburn
+2019,4,Virginia,Purdue,1,3,Virginia
+2019,4,Gonzaga,Texas Tech,1,3,Texas Tech
+2019,5,Virginia,Auburn,1,5,Virginia
+2019,5,Texas Tech,Michigan State,3,2,Texas Tech
+2019,6,Virginia,Texas Tech,1,3,Virginia
+2021,1,Michigan,Texas Southern,1,16,Michigan
+2021,1,Louisiana State,St. Bonaventure,8,9,Louisiana State
+2021,1,Colorado,Georgetown,5,12,Colorado
+2021,1,Florida State,UNC Greensboro,4,13,Florida State
+2021,1,Brigham Young,UCLA,6,11,UCLA
+2021,1,Texas,Abilene Christian,3,14,Abilene Christian
+2021,1,Connecticut,Maryland,7,10,Maryland
+2021,1,Alabama,Iona,2,15,Alabama
+2021,1,Illinois,Drexel,1,16,Illinois
+2021,1,Loyola (IL),Georgia Tech,8,9,Loyola (IL)
+2021,1,Tennessee,Oregon State,5,12,Oregon State
+2021,1,Oklahoma State,Liberty,4,13,Oklahoma State
+2021,1,San Diego State,Syracuse,6,11,Syracuse
+2021,1,West Virginia,Morehead State,3,14,West Virginia
+2021,1,Clemson,Rutgers,7,10,Rutgers
+2021,1,Houston,Cleveland State,2,15,Houston
+2021,1,Baylor,Hartford,1,16,Baylor
+2021,1,North Carolina,Wisconsin,8,9,Wisconsin
+2021,1,Villanova,Winthrop,5,12,Villanova
+2021,1,Purdue,North Texas,4,13,North Texas
+2021,1,Texas Tech,Utah State,6,11,Texas Tech
+2021,1,Arkansas,Colgate,3,14,Arkansas
+2021,1,Florida,Virginia Tech,7,10,Florida
+2021,1,Ohio State,Oral Roberts,2,15,Oral Roberts
+2021,1,Gonzaga,Norfolk State,1,16,Gonzaga
+2021,1,Oklahoma,Missouri,8,9,Oklahoma
+2021,1,Creighton,UC Santa Barbara,5,12,Creighton
+2021,1,Virginia,Ohio,4,13,Ohio
+2021,1,Southern California,Drake,6,11,Southern California
+2021,1,Kansas,Eastern Washington,3,14,Kansas
+2021,1,Oregon,VCU,7,10,Oregon
+2021,1,Iowa,Grand Canyon,2,15,Iowa
+2021,2,Michigan,Louisiana State,1,8,Michigan
+2021,2,Colorado,Florida State,5,4,Florida State
+2021,2,UCLA,Abilene Christian,11,14,UCLA
+2021,2,Maryland,Alabama,10,2,Alabama
+2021,2,Illinois,Loyola (IL),1,8,Loyola (IL)
+2021,2,Oregon State,Oklahoma State,12,4,Oregon State
+2021,2,Syracuse,West Virginia,11,3,Syracuse
+2021,2,Rutgers,Houston,10,2,Houston
+2021,2,Baylor,Wisconsin,1,9,Baylor
+2021,2,Villanova,North Texas,5,13,Villanova
+2021,2,Texas Tech,Arkansas,6,3,Arkansas
+2021,2,Florida,Oral Roberts,7,15,Oral Roberts
+2021,2,Gonzaga,Oklahoma,1,8,Gonzaga
+2021,2,Creighton,Ohio,5,13,Creighton
+2021,2,Southern California,Kansas,6,3,Southern California
+2021,2,Oregon,Iowa,7,2,Oregon
+2021,3,Michigan,Florida State,1,4,Michigan
+2021,3,UCLA,Alabama,11,2,UCLA
+2021,3,Loyola (IL),Oregon State,8,12,Oregon State
+2021,3,Syracuse,Houston,11,2,Houston
+2021,3,Baylor,Villanova,1,5,Baylor
+2021,3,Arkansas,Oral Roberts,3,15,Arkansas
+2021,3,Gonzaga,Creighton,1,5,Gonzaga
+2021,3,Southern California,Oregon,6,7,Southern California
+2021,4,Michigan,UCLA,1,11,UCLA
+2021,4,Oregon State,Houston,12,2,Houston
+2021,4,Baylor,Arkansas,1,3,Baylor
+2021,4,Gonzaga,Southern California,1,6,Gonzaga
+2021,5,Baylor,Houston,1,2,Baylor
+2021,5,Gonzaga,UCLA,1,11,Gonzaga
+2021,6,Baylor,Gonzaga,1,1,Baylor
+2022,1,Baylor,Norfolk State,1,16,Baylor
+2022,1,North Carolina,Marquette,8,9,North Carolina
+2022,1,Saint Mary's,Indiana,5,12,Saint Mary's
+2022,1,UCLA,Akron,4,13,UCLA
+2022,1,Texas,Virginia Tech,6,11,Texas
+2022,1,Purdue,Yale,3,14,Purdue
+2022,1,Murray State,San Francisco,7,10,Murray State
+2022,1,Kentucky,Saint Peter's,2,15,Saint Peter's
+2022,1,Kansas,Texas Southern,1,16,Kansas
+2022,1,San Diego State,Creighton,8,9,Creighton
+2022,1,Iowa,Richmond,5,12,Richmond
+2022,1,Providence,South Dakota State,4,13,Providence
+2022,1,Louisiana State,Iowa State,6,11,Iowa State
+2022,1,Wisconsin,Colgate,3,14,Wisconsin
+2022,1,Southern California,Miami (FL),7,10,Miami (FL)
+2022,1,Auburn,Jacksonville State,2,15,Auburn
+2022,1,Arizona,Wright State,1,16,Arizona
+2022,1,Seton Hall,Texas Christian,8,9,Texas Christian
+2022,1,Houston,UAB,5,12,Houston
+2022,1,Illinois,Chattanooga,4,13,Illinois
+2022,1,Colorado State,Michigan,6,11,Michigan
+2022,1,Tennessee,Longwood,3,14,Tennessee
+2022,1,Ohio State,Loyola (IL),7,10,Ohio State
+2022,1,Villanova,Delaware,2,15,Villanova
+2022,1,Gonzaga,Georgia State,1,16,Gonzaga
+2022,1,Boise State,Memphis,8,9,Memphis
+2022,1,Connecticut,New Mexico State,5,12,New Mexico State
+2022,1,Arkansas,Vermont,4,13,Arkansas
+2022,1,Alabama,Notre Dame,6,11,Notre Dame
+2022,1,Texas Tech,Montana State,3,14,Texas Tech
+2022,1,Michigan State,Davidson,7,10,Michigan State
+2022,1,Duke,Cal State Fullerton,2,15,Duke
+2022,2,Baylor,North Carolina,1,8,North Carolina
+2022,2,Saint Mary's,UCLA,5,4,UCLA
+2022,2,Texas,Purdue,6,3,Purdue
+2022,2,Murray State,Saint Peter's,7,15,Saint Peter's
+2022,2,Kansas,Creighton,1,9,Kansas
+2022,2,Richmond,Providence,12,4,Providence
+2022,2,Iowa State,Wisconsin,11,3,Iowa State
+2022,2,Miami (FL),Auburn,10,2,Miami (FL)
+2022,2,Arizona,Texas Christian,1,9,Arizona
+2022,2,Houston,Illinois,5,4,Houston
+2022,2,Michigan,Tennessee,11,3,Michigan
+2022,2,Ohio State,Villanova,7,2,Villanova
+2022,2,Gonzaga,Memphis,1,9,Gonzaga
+2022,2,New Mexico State,Arkansas,12,4,Arkansas
+2022,2,Notre Dame,Texas Tech,11,3,Texas Tech
+2022,2,Michigan State,Duke,7,2,Duke
+2022,3,North Carolina,UCLA,8,4,North Carolina
+2022,3,Purdue,Saint Peter's,3,15,Saint Peter's
+2022,3,Kansas,Providence,1,4,Kansas
+2022,3,Iowa State,Miami (FL),11,10,Miami (FL)
+2022,3,Arizona,Houston,1,5,Houston
+2022,3,Michigan,Villanova,11,2,Villanova
+2022,3,Gonzaga,Arkansas,1,4,Arkansas
+2022,3,Texas Tech,Duke,3,2,Duke
+2022,4,North Carolina,Saint Peter's,8,15,North Carolina
+2022,4,Kansas,Miami (FL),1,10,Kansas
+2022,4,Houston,Villanova,5,2,Villanova
+2022,4,Arkansas,Duke,4,2,Duke
+2022,5,Villanova,Kansas,2,1,Kansas
+2022,5,Duke,North Carolina,2,8,North Carolina
+2022,6,Kansas,North Carolina,1,8,Kansas
+2023,1,Purdue,Fairleigh Dickinson,1,16,Fairleigh Dickinson
+2023,1,Memphis,Florida Atlantic,8,9,Florida Atlantic
+2023,1,Duke,Oral Roberts,5,12,Duke
+2023,1,Tennessee,Louisiana,4,13,Tennessee
+2023,1,Kentucky,Providence,6,11,Kentucky
+2023,1,Kansas State,Montana State,3,14,Kansas State
+2023,1,Michigan State,Southern California,7,10,Michigan State
+2023,1,Marquette,Vermont,2,15,Marquette
+2023,1,Houston,Northern Kentucky,1,16,Houston
+2023,1,Iowa,Auburn,8,9,Auburn
+2023,1,Miami (FL),Drake,5,12,Miami (FL)
+2023,1,Indiana,Kent State,4,13,Indiana
+2023,1,Iowa State,Pitt,6,11,Pitt
+2023,1,Xavier,Kennesaw State,3,14,Xavier
+2023,1,Texas A&M,Penn State,7,10,Penn State
+2023,1,Texas,Colgate,2,15,Texas
+2023,1,Alabama,Texas A&M-Corpus Christi,1,16,Alabama
+2023,1,Maryland,West Virginia,8,9,Maryland
+2023,1,San Diego State,College of Charleston,5,12,San Diego State
+2023,1,Virginia,Furman,4,13,Furman
+2023,1,Creighton,North Carolina State,6,11,Creighton
+2023,1,Baylor,UC Santa Barbara,3,14,Baylor
+2023,1,Missouri,Utah State,7,10,Missouri
+2023,1,Arizona,Princeton,2,15,Princeton
+2023,1,Kansas,Howard,1,16,Kansas
+2023,1,Arkansas,Illinois,8,9,Arkansas
+2023,1,Saint Mary's,Virginia Commonwealth,5,12,Saint Mary's
+2023,1,Connecticut,Iona,4,13,Connecticut
+2023,1,Texas Christian,Arizona State,6,11,Texas Christian
+2023,1,Gonzaga,Grand Canyon,3,14,Gonzaga
+2023,1,Northwestern,Boise State,7,10,Northwestern
+2023,1,UCLA,UNC Asheville,2,15,UCLA
+2023,2,Fairleigh Dickinson,Florida Atlantic,16,9,Florida Atlantic
+2023,2,Duke,Tennessee,5,4,Tennessee
+2023,2,Kentucky,Kansas State,6,3,Kansas State
+2023,2,Michigan State,Marquette,7,2,Michigan State
+2023,2,Houston,Auburn,1,9,Houston
+2023,2,Miami (FL),Indiana,5,4,Miami (FL)
+2023,2,Pitt,Xavier,11,3,Xavier
+2023,2,Penn State,Texas,10,2,Texas
+2023,2,Alabama,Maryland,1,8,Alabama
+2023,2,San Diego State,Furman,5,13,San Diego State
+2023,2,Creighton,Baylor,6,3,Creighton
+2023,2,Missouri,Princeton,7,15,Princeton
+2023,2,Kansas,Arkansas,1,8,Arkansas
+2023,2,Saint Mary's,Connecticut,5,4,Connecticut
+2023,2,Texas Christian,Gonzaga,6,3,Gonzaga
+2023,2,Northwestern,UCLA,7,2,UCLA
+2023,3,Florida Atlantic,Tennessee,9,4,Florida Atlantic
+2023,3,Kansas State,Michigan State,3,7,Kansas State
+2023,3,Houston,Miami (FL),1,5,Miami (FL)
+2023,3,Xavier,Texas,3,2,Texas
+2023,3,Alabama,San Diego State,1,5,San Diego State
+2023,3,Creighton,Princeton,6,15,Creighton
+2023,3,Arkansas,Connecticut,8,4,Connecticut
+2023,3,Gonzaga,UCLA,3,2,Gonzaga
+2023,4,Florida Atlantic,Kansas State,9,3,Florida Atlantic
+2023,4,Miami (FL),Texas,5,2,Miami (FL)
+2023,4,San Diego State,Creighton,5,6,San Diego State
+2023,4,Connecticut,Gonzaga,4,3,Connecticut
+2023,5,Florida Atlantic,San Diego State,9,5,San Diego State
+2023,5,Miami (FL),Connecticut,5,4,Connecticut
+2023,6,San Diego State,Connecticut,5,4,Connecticut
+2024,1,Connecticut,Stetson,1,16,Connecticut
+2024,1,Florida Atlantic,Northwestern,8,9,Northwestern
+2024,1,San Diego State,UAB,5,12,San Diego State
+2024,1,Auburn,Yale,4,13,Yale
+2024,1,Brigham Young,Duquesne,6,11,Duquesne
+2024,1,Illinois,Morehead State,3,14,Illinois
+2024,1,Washington State,Drake,7,10,Washington State
+2024,1,Iowa State,South Dakota State,2,15,Iowa State
+2024,1,Purdue,Grambling State,1,16,Purdue
+2024,1,Utah State,Texas Christian,8,9,Utah State
+2024,1,Gonzaga,McNeese State,5,12,Gonzaga
+2024,1,Kansas,Samford,4,13,Kansas
+2024,1,South Carolina,Oregon,6,11,Oregon
+2024,1,Creighton,Akron,3,14,Creighton
+2024,1,Texas,Colorado State,7,10,Texas
+2024,1,Tennessee,Saint Peter's,2,15,Tennessee
+2024,1,Houston,Longwood,1,16,Houston
+2024,1,Nebraska,Texas A&M,8,9,Texas A&M
+2024,1,Wisconsin,James Madison,5,12,James Madison
+2024,1,Duke,Vermont,4,13,Duke
+2024,1,Texas Tech,North Carolina State,6,11,North Carolina State
+2024,1,Kentucky,Oakland,3,14,Oakland
+2024,1,Florida,Colorado,7,10,Colorado
+2024,1,Marquette,Western Kentucky,2,15,Marquette
+2024,1,North Carolina,Wagner,1,16,North Carolina
+2024,1,Mississippi State,Michigan State,8,9,Michigan State
+2024,1,Saint Mary's,Grand Canyon,5,12,Grand Canyon
+2024,1,Alabama,College of Charleston,4,13,Alabama
+2024,1,Clemson,New Mexico,6,11,Clemson
+2024,1,Baylor,Colgate,3,14,Baylor
+2024,1,Dayton,Nevada,7,10,Dayton
+2024,1,Arizona,Long Beach State,2,15,Arizona
+2024,2,Connecticut,Northwestern,1,9,Connecticut
+2024,2,San Diego State,Yale,5,13,San Diego State
+2024,2,Duquesne,Illinois,11,3,Illinois
+2024,2,Washington State,Iowa State,7,2,Iowa State
+2024,2,Purdue,Utah State,1,8,Purdue
+2024,2,Gonzaga,Kansas,5,4,Gonzaga
+2024,2,Oregon,Creighton,11,3,Creighton
+2024,2,Texas,Tennessee,7,2,Tennessee
+2024,2,Houston,Texas A&M,1,9,Houston
+2024,2,James Madison,Duke,12,4,Duke
+2024,2,North Carolina State,Oakland,11,14,North Carolina State
+2024,2,Colorado,Marquette,10,2,Marquette
+2024,2,North Carolina,Michigan State,1,9,North Carolina
+2024,2,Grand Canyon,Alabama,12,4,Alabama
+2024,2,Clemson,Baylor,6,3,Clemson
+2024,2,Dayton,Arizona,7,2,Arizona
+2024,3,Connecticut,San Diego State,1,5,Connecticut
+2024,3,Illinois,Iowa State,3,2,Illinois
+2024,3,Purdue,Gonzaga,1,5,Purdue
+2024,3,Creighton,Tennessee,3,2,Tennessee
+2024,3,Houston,Duke,1,4,Duke
+2024,3,North Carolina State,Marquette,11,2,North Carolina State
+2024,3,North Carolina,Alabama,1,4,Alabama
+2024,3,Clemson,Arizona,6,2,Clemson
+2024,4,Connecticut,Illinois,1,3,Connecticut
+2024,4,Purdue,Tennessee,1,2,Purdue
+2024,4,Duke,North Carolina State,4,11,North Carolina State
+2024,4,Alabama,Clemson,4,6,Alabama
+2024,5,Connecticut,Alabama,1,4,Connecticut
+2024,5,Purdue,North Carolina State,1,11,Purdue
+2024,6,Connecticut,Purdue,1,1,Connecticut
+2025,1,Duke,Mount St. Mary's,1,16,TBD
+2025,1,Mississippi St.,Baylor,8,9,TBD
+2025,1,Oregon,Liberty,5,12,TBD
+2025,1,Arizona,Akron,4,13,TBD
+2025,1,BYU,VCU,6,11,TBD
+2025,1,Wisconsin,Montana,3,14,TBD
+2025,1,Saint Mary's,Vanderbilt,7,10,TBD
+2025,1,Alabama,Robert Morris,2,15,TBD
+2025,1,Houston,SIUE,1,16,TBD
+2025,1,Gonzaga,Georgia,8,9,TBD
+2025,1,Clemson,McNeese,5,12,TBD
+2025,1,Purdue,High Point,4,13,TBD
+2025,1,Illinois,Xavier,6,11,TBD
+2025,1,Kentucky,Troy,3,14,TBD
+2025,1,UCLA,Utah St.,7,10,TBD
+2025,1,Tennessee,Wofford,2,15,TBD
+2025,1,Auburn,Alabama St.,1,16,TBD
+2025,1,Louisville,Creighton,8,9,TBD
+2025,1,Michigan,UC San Diego,5,12,TBD
+2025,1,Texas A&M,Yale,4,13,TBD
+2025,1,Mississippi,North Carolina,6,11,TBD
+2025,1,Iowa St.,Lipscomb,3,14,TBD
+2025,1,Marquette,New Mexico,7,10,TBD
+2025,1,Michigan St.,Bryant,2,15,TBD
+2025,1,Florida,Norfolk St.,1,16,TBD
+2025,1,Connecticut,Oklahoma,8,9,TBD
+2025,1,Memphis,Colorado St.,5,12,TBD
+2025,1,Maryland,Grand Canyon,4,13,TBD
+2025,1,Missouri,Drake,6,11,TBD
+2025,1,Texas Tech,UNC Wilmington,3,14,TBD
+2025,1,Kansas,Arkansas,7,10,TBD
+2025,1,St. John's (NY),Omaha,2,15,TBD
