@@ -1,0 +1,18 @@
+# Web scraping and data collection
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+kenpompy>=0.3.0  # KenPom.com API wrapper
+
+# Data manipulation
+pandas>=1.3.0
+numpy>=1.20.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.1
+
+# Utilities
+tqdm>=4.61.0  # For progress bars
